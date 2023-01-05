@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="angka_1">Angka 1</string>
+    <string name="angka_2">Angka 2</string>
+    <string name="jumlah">+</string>
+    <string name="pengurangan">-</string>
+    <string name="x">x</string>
+    <string name="pembagian">/</string>
+    <string name="clear">CLEAR</string>
+    <string name="exit">EXIT</string>
+</resources>
